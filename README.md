@@ -72,18 +72,18 @@ The script will execute below steps sequencially.
 11. Evaluate the model by test dataset
 12. Plot training accuracy values and training loss values
 <div align="left">
-  <img src="images/model-accuracy.png">
+  <img src="model-accuracy.png">
 </div>
 13. Check the training and validation loss
 <div align="left">
-  <img src="images/training-validation-loss.png">
+  <img src="training-validation-loss.png">
 </div>
 14. Check the model summary
 15. Count the number of parameters
 16. Check the number of activations
 17. Plot the heatmap to review the initial weights of the model
 <div align="left">
-  <img src="images/weights-heat-map.png">
+  <img src="weights-heat-map.png">
 </div>
 18. Check the training using TensorBoard
 
