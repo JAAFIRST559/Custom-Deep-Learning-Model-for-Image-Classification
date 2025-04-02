@@ -3,10 +3,6 @@ This project is to construct a deep forward neural network to solve an image cla
 
 <a name="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT Image -->
 <br/>
 <div align="left">
