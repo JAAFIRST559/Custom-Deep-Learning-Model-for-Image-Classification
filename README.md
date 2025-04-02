@@ -230,14 +230,6 @@ I am using the default initialisation method for training the model. In Keras, t
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -251,8 +243,7 @@ LinkedIn: [https://www.linkedin.com/in/jaafirst559-5a1b43222/](https://www.linke
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
 [linkedin-url]: [https://www.linkedin.com/in/jaafirst559-5a1b43222/]
 
 
