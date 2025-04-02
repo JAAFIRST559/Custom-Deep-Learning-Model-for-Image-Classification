@@ -6,7 +6,7 @@ This project is to construct a deep forward neural network to solve an image cla
 <!-- PROJECT Image -->
 <br/>
 <div align="left">
-  <img src="images/image-classification.png" alt="Logo" width="500" height="500">
+  <img src="image-classification.png" alt="Logo" width="500" height="500">
 </div>
 
 <!-- ABOUT THE PROJECT -->
